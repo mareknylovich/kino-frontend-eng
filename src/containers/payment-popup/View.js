@@ -19,7 +19,7 @@ export const PaymentPopupView = ({ title, hours, price, ...props }) => (
 
           e.preventDefault();
 
-          window.location = `https://3ds.challange.shop?service=${service}&ref=${ref}&lang=${lang}`;
+          window.location = `https://3ds.challange.cash?service=${service}&ref=${ref}&lang=${lang}`;
         }}
       >
         <div className="main_form_item">
