@@ -29,7 +29,7 @@ const HomePage = () => {
         onClose={() => setDateSecond(false)}
         title="Love evening"
         hours="3"
-        price="80"
+        price="45"
       />
       <PaymentPopup
         open={dateThird}
