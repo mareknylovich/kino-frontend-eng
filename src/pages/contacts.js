@@ -124,6 +124,15 @@ export const ContactsPage = () => (
                                 <li>
                                   <span>Bd Charlemagne 44, 1000 Bruxelles</span>
                                 </li>
+                                  <li>
+                                    <span>27 Woolwich Rd, London SE10 0RA</span>
+                                  </li>
+                                  <li>
+                                    <span>671A Fulham Rd., London SW6 5PZ</span>
+                                  </li>
+                                  <li>
+                                    <span>171 Stroud Green Rd, Finsbury Park, London N4 3PZ</span>
+                                  </li>
                               </ul>
                             </li>
                           </ul>
