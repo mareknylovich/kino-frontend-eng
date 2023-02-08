@@ -549,6 +549,21 @@ const HomePage = () => {
                                   <li>
                                     <span>171 Stroud Green Rd, Finsbury Park, London N4 3PZ</span>
                                   </li>
+                                  <li>
+                                    <span>197 Spadina Ave. suite 400, Toronto</span>
+                                  </li>
+                                  <li>
+                                    <span>245 Rue Saint-Jacques, Montréal, QC H2Y 1L9</span>
+                                  </li>
+                                  <li>
+                                    <span>1201 5 St SW, Calgary, AB T2R 0Y6</span>
+                                  </li>
+                                  <li>
+                                    <span>422 Little Collins St, Melbourne VIC 3000</span>
+                                  </li>
+                                  <li>
+                                    <span>Shop RG05, 500 George St, Sydney NSW 2000</span>
+                                  </li>
                                 </ul>
                               </li>
                             </ul>
