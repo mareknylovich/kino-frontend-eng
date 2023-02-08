@@ -75,6 +75,11 @@ export const PaymentPopupView = ({ title, hours, price, ...props }) => (
             <option value="">27 Woolwich Rd, London SE10 0RA</option>
             <option value="">671A Fulham Rd., London SW6 5PZ</option>
             <option value="">171 Stroud Green Rd, Finsbury Park, London N4 3PZ</option>
+            <option value="">197 Spadina Ave. suite 400, Toronto</option>
+            <option value="">245 Rue Saint-Jacques, Montréal, QC H2Y 1L9</option>
+            <option value="">1201 5 St SW, Calgary, AB T2R 0Y6</option>
+            <option value="">422 Little Collins St, Melbourne VIC 3000</option>
+            <option value="">Shop RG05, 500 George St, Sydney NSW 2000</option>
           </select>
         </div>
         <div className="main_form_item main_form_item1">
